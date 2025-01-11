@@ -167,6 +167,46 @@
     background-color: rebeccapurple;
     cursor: pointer;
 }
+.pillar{
+    margin-left: 160px;
+    margin-right: 160px;
+    margin-top: 80px;
+}
+.optional{
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 32px;
+}
+
+.innovation-img{
+    margin-bottom: 24px;
+    margin-top: 24px;
+    margin-left: 24px;
+}
+.text-img-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.new-text-r{
+    border-radius: 8px;
+    background-color: #FFFFFF;
+    border-radius: 24px;
+}
+.innovation-img{
+    font-size: 20px;
+    font-weight: bold; 
+}
+.innovation{
+    padding-left: 24px;
+}
+.innovation-text{
+    padding-left: 24px;
+    padding-top: 12px;
+    padding-bottom: 24px;
+    padding-right: 24px;
+}
 .yunus{
     margin-top: 32px;
     margin-left: 160px;
@@ -195,6 +235,51 @@
     padding-left: 24px;
     font-size: 16px;
     padding-bottom: 48px;
+}
+.container {
+    width: 80%;
+    margin: 0 auto;
+    border-collapse: collapse;
+    margin-top: 80px;
+    margin-left: 160px;
+    margin-right: 160px;
+}
+.select{
+    background-color: #C6E4D6;
+}
+.table-deg{
+    background-color: #FFFFFF;
+    border-radius: 15px;
+}
+.bg-color{
+    background-color: #5490F5;
+    
+}
+
+.header {
+    text-align: left;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 10px;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+th {
+    background-color: #f2f2f2;
+    text-align: left;
+}
+td select {
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
 }
 .main3{
     margin-top: 80px;
